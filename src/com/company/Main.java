@@ -11,7 +11,7 @@ public class Main {
 
 
         System.out.println("Rune Er Kongen!!!");
-        //Jeppe skal gå væk
+        //Jeppe må godt være her
 
     }
 }
