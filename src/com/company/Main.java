@@ -8,5 +8,8 @@ public class Main {
         //the besT
 
         System.out.println("hej");
+
+
+        System.out.println("Rune Er Kongen!!!");
     }
 }
