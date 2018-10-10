@@ -8,10 +8,12 @@ public class Main {
         //the besT
 
         System.out.println("hej");
+        // Do you have any spicy new memes?
 
 
         System.out.println("Rune Er Kongen!!!");
         //Jeppe må godt være her
 
     }
+
 }
